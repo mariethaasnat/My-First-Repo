@@ -4,4 +4,4 @@ NPM     : 2106752413
 
 Kelas   : B
 
-Hobi    : Main Badminton
+Hobi    : Tidur
